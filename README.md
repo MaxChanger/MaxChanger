@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MaxChanger's github stats](https://github-readme-stats.vercel.app/api?username=MaxChanger&show_icons=true&count_private=true&theme=default_repocard)
+![MaxChanger's github stats](https://github-readme-stats.vercel.app/api?username=MaxChanger&show_icons=true&count_private=true&theme=default_repocard&PAT_1)
